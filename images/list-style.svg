@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="list-style.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 6.2917391 6.2917399"
+   height="6.2917399mm"
+   width="6.291739mm">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="-9"
+     inkscape:window-x="-9"
+     inkscape:window-height="1001"
+     inkscape:window-width="1920"
+     showborder="true"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="33.603583"
+     inkscape:cx="57.683168"
+     inkscape:zoom="3.959798"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-85.473265,-68.29163)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <path
+       d="m 91.765004,71.4375 a 3.1458698,3.1458698 0 0 1 -3.14587,3.14587 3.1458698,3.1458698 0 0 1 -3.145869,-3.14587 3.1458698,3.1458698 0 0 1 3.145869,-3.14587 3.1458698,3.1458698 0 0 1 3.14587,3.14587 z"
+       style="fill:#ffffff;stroke-width:0.0355178"
+       id="path835" />
+    <path
+       d="M 91.222612,71.4375 A 2.6034784,2.6034784 0 0 1 88.619134,74.040978 2.6034784,2.6034784 0 0 1 86.015656,71.4375 2.6034784,2.6034784 0 0 1 88.619134,68.834022 2.6034784,2.6034784 0 0 1 91.222612,71.4375"
+       style="fill:#c4cbda;fill-opacity:1;stroke-width:0.029394"
+       id="circle837" />
+  </g>
+</svg>
